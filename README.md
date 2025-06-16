@@ -2,8 +2,8 @@
 <br>
 
 I'm a (backend leaning) full stack developer with experience in a variety of technologies including Python and SQL.
-* 🌱 Currently learning both Java and C++.
-* 🔭 Working on a simple astrology compatibility calculator written in C++ as a beginner's project.
+* 🌱 Currently learning Java.
+* 🔭 Working on a simple journalling tool as a beginner's project.
 <br><br>
 
 Other tools I'm familiar with include:
